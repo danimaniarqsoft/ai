@@ -1,0 +1,16 @@
+{
+  "spellcheck": true,
+  "propertiesInDocument": "hidden",
+  "rightToLeft": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_organizar",
+  "alwaysUpdateLinks": true
+}
