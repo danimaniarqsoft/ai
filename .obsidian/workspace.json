@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "introduction/AI Algorithms classification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10e872d9388db04f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c14c572823f6071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Text to Diagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Text to Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Text to Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Text to Diagram.md"
               }
             }
           }
@@ -146,8 +171,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8820fb60678c79",
+  "active": "7c14c572823f6071",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "Text to Diagram.md",
+    "introduction/AI Algorithms classification.md",
+    "Untitled 1.md",
+    "_content/diary/2024-08-27.md",
+    "introduction",
+    "_resources/templates/Algoritmo.md",
+    "_content/diary/2024-05-18.md",
+    "_content/diary/2024-05-21.md",
+    "_resources/templates/Daily note.md",
+    "_resources/templates/Command.md",
+    "_resources/templates",
+    "_resources",
+    "_organizar/Supervised Machine Learning.md",
+    "_organizar/Statistical Modeling.md",
+    "_organizar/References.md",
+    "_organizar/Feature engineering.md",
+    "_organizar/Deep Learning.md",
+    "_organizar/APA.md",
+    "_organizar",
+    "_content/diary/attachments",
+    "_content/diary",
+    "_content"
   ]
 }
