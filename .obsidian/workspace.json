@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Framework/2. Get the data.md",
+                "file": "Framework/4. Prepare the data.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framework/2. Get the data.md",
+                "file": "Framework/4. Prepare the data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framework/2. Get the data.md",
+                "file": "Framework/4. Prepare the data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framework/2. Get the data.md"
+                "file": "Framework/4. Prepare the data.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "2695f6d9d57c98d5",
   "lastOpenFiles": [
-    "Framework/1. Frame the problem.md",
+    "Framework/3. Explore the data.md",
     "Framework/2. Get the data.md",
+    "Framework/1. Frame the problem.md",
     "Framework/0. Framework.md",
     "Framework/8. Launch monitor, mantain the system.md",
     "Framework/6. Fine tune the models.md",
     "Framework/5. Explore models.md",
     "Framework/4. Prepare the data.md",
-    "Framework/3. Explore the data.md",
     "Text to Diagram.md",
     "Framework/7. Present solution.md",
     "5. explore models.md",
