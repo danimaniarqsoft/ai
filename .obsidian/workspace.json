@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d8820fb60678c79",
+            "id": "2695f6d9d57c98d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "introduction/AI Algorithms classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10e872d9388db04f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c14c572823f6071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Text to Diagram.md",
+                "file": "Framework/2. Get the data.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Text to Diagram.md",
+                "file": "Framework/2. Get the data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Text to Diagram.md",
+                "file": "Framework/2. Get the data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Text to Diagram.md"
+                "file": "Framework/2. Get the data.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,27 +146,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c14c572823f6071",
+  "active": "2695f6d9d57c98d5",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Framework/1. Frame the problem.md",
+    "Framework/2. Get the data.md",
+    "Framework/0. Framework.md",
+    "Framework/8. Launch monitor, mantain the system.md",
+    "Framework/6. Fine tune the models.md",
+    "Framework/5. Explore models.md",
+    "Framework/4. Prepare the data.md",
+    "Framework/3. Explore the data.md",
     "Text to Diagram.md",
-    "introduction/AI Algorithms classification.md",
-    "Untitled 1.md",
-    "_content/diary/2024-08-27.md",
+    "Framework/7. Present solution.md",
+    "5. explore models.md",
+    "4. prepare the data.md",
+    "3. explore the data.md",
+    "1.Frame.md",
+    "1.Frame the problem.md",
+    "Framework/8-launch-monitor-mantain-the-system.md",
+    "Framework/4-prepare-the-data.md",
+    "Framework/2-get-the-data.md",
+    "Framework/1-frame-the-problem.md",
+    "2.get-the-data.md",
+    "Framework/3-explore-the-data.md",
+    "Framework/7-present-solution.md",
+    "Framework/6-fine-tune-the-models.md",
+    "Framework/5-explore-models.md",
+    "Framework/3. Explore the data to gain insights.md",
+    "Framework/1. Frame the problem and look at the big picture.md",
+    "Framework",
     "introduction",
-    "_resources/templates/Algoritmo.md",
-    "_content/diary/2024-05-18.md",
-    "_content/diary/2024-05-21.md",
-    "_resources/templates/Daily note.md",
-    "_resources/templates/Command.md",
     "_resources/templates",
     "_resources",
-    "_organizar/Supervised Machine Learning.md",
-    "_organizar/Statistical Modeling.md",
-    "_organizar/References.md",
-    "_organizar/Feature engineering.md",
-    "_organizar/Deep Learning.md",
-    "_organizar/APA.md",
     "_organizar",
     "_content/diary/attachments",
     "_content/diary",
