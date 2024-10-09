@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2695f6d9d57c98d5",
+            "id": "bf99123db884c06d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Framework/4. Prepare the data.md",
+                "file": "Framework/models/regression/Simple Linear Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#regression/multiple-liner-regression",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framework/4. Prepare the data.md",
+                "file": "Framework/models/regression/Simple Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framework/4. Prepare the data.md",
+                "file": "Framework/models/regression/Simple Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framework/4. Prepare the data.md"
+                "file": "Framework/models/regression/Simple Linear Regression.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,16 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2695f6d9d57c98d5",
+  "active": "bf99123db884c06d",
   "lastOpenFiles": [
+    "Framework/models/regression/Multiple Linear Regression.md",
     "Framework/3. Explore the data.md",
     "Framework/2. Get the data.md",
     "Framework/1. Frame the problem.md",
+    "Framework/models/regression/attachments/Pasted image 20241007202902.png",
+    "Framework/models/regression/attachments/Pasted image 20241007202417.png",
+    "Framework/models/regression/Simple Linear Regression.md",
+    "Framework/models/regression/attachments/Pasted image 20240924195827.png",
+    "Framework/models/regression/attachments",
+    "Framework/models/regression/Random Forest Regression.md",
+    "Framework/models/regression/Decision Tree Regression.md",
+    "Framework/models/regression/Support Vector for Regression (SVR).md",
+    "Framework/models/regression/Polynomial Regression.md",
+    "Framework/5. Explore models.md",
+    "concepts/Overfitting.md",
+    "Framework/4. Prepare the data.md",
+    "concepts/Feature scaling.md",
+    "Framework/models/regression",
+    "Framework/models",
+    "concepts",
+    "Resources.md",
     "Framework/0. Framework.md",
+    "Framework/attachments/Pasted image 20240917120728.png",
+    "Framework/attachments",
     "Framework/8. Launch monitor, mantain the system.md",
     "Framework/6. Fine tune the models.md",
-    "Framework/5. Explore models.md",
-    "Framework/4. Prepare the data.md",
     "Text to Diagram.md",
     "Framework/7. Present solution.md",
     "5. explore models.md",
@@ -164,23 +182,10 @@
     "1.Frame.md",
     "1.Frame the problem.md",
     "Framework/8-launch-monitor-mantain-the-system.md",
-    "Framework/4-prepare-the-data.md",
-    "Framework/2-get-the-data.md",
-    "Framework/1-frame-the-problem.md",
-    "2.get-the-data.md",
-    "Framework/3-explore-the-data.md",
-    "Framework/7-present-solution.md",
-    "Framework/6-fine-tune-the-models.md",
-    "Framework/5-explore-models.md",
-    "Framework/3. Explore the data to gain insights.md",
-    "Framework/1. Frame the problem and look at the big picture.md",
     "Framework",
     "introduction",
     "_resources/templates",
     "_resources",
-    "_organizar",
-    "_content/diary/attachments",
-    "_content/diary",
-    "_content"
+    "_organizar"
   ]
 }
