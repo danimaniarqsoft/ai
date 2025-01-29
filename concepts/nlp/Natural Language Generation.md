@@ -1,0 +1,1 @@
+is the process of producing phrases, sentences and paragraphs that are meaningful from an internal representation. The first objective of this paper is to give insights of the various important terminologies of NLP and NLG.

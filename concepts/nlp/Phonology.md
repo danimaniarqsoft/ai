@@ -1,0 +1,1 @@
+Phonology is the part of Linguistics which refers to the systematic arrangement of sound

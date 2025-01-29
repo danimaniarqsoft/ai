@@ -3,7 +3,7 @@
 > [!NOTE] Overfitting
 > Creating a model that matches the training data so closely that the model fails to make correct predictions on new data.
 
-Regularization can reduce overfitting. Training on a large and diverse training set can also reduce overfitting.
+[[Regularization]] can reduce overfitting. Training on a large and diverse training set can also reduce overfitting.
 ## Why does overfitting occur?
 
 - The training data size is too small and does not contain enough data samples to accurately represent all possible input data values.  

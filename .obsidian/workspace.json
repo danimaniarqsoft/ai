@@ -8,18 +8,157 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf99123db884c06d",
+            "id": "332d1015aebd42e3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6b21d138ad6f0d2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Framework/models/regression/Simple Linear Regression.md",
+                "file": "Unknow words.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Unknow words"
+            }
+          },
+          {
+            "id": "6458538fd6dcb4c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/nlp/Natural Language Processing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Natural Language Processing"
+            }
+          },
+          {
+            "id": "14e6707ef816bde4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_content/diary/2024-12-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-09"
+            }
+          },
+          {
+            "id": "bf6a355d52219de8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/nlp/Natural Language Understanding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Natural Language Understanding"
+            }
+          },
+          {
+            "id": "8c723c64184e4b3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/nlp/Morphology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Morphology"
+            }
+          },
+          {
+            "id": "1cb5ef717e5a5adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/nlp/Natural Language Understanding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Natural Language Understanding"
+            }
+          },
+          {
+            "id": "295935a74017d564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unknow words.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unknow words"
+            }
+          },
+          {
+            "id": "ac5f550e6b5b18fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_resources/templates/Article extraction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Article extraction"
+            }
+          },
+          {
+            "id": "7f315c7efff28e19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_resources/templates/Article extraction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Article extraction"
+            }
+          },
+          {
+            "id": "db46e82c3469556a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/nlp/TF-IDF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TF-IDF"
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -39,7 +178,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +189,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#regression/multiple-liner-regression",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +205,18 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 326.5,
+    "collapsed": true
   },
   "right": {
     "id": "c8414f5c6dd16922",
@@ -85,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framework/models/regression/Simple Linear Regression.md",
+                "file": "_content/diary/2024-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +240,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-10-16"
             }
           },
           {
@@ -102,10 +251,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framework/models/regression/Simple Linear Regression.md",
+                "file": "_content/diary/2024-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-10-16"
             }
           },
           {
@@ -116,7 +267,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +278,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framework/models/regression/Simple Linear Regression.md"
-              }
+                "file": "_content/diary/2024-10-16.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-10-16"
             }
           }
         ],
@@ -146,46 +301,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf99123db884c06d",
+  "active": "db46e82c3469556a",
   "lastOpenFiles": [
-    "Framework/models/regression/Multiple Linear Regression.md",
-    "Framework/3. Explore the data.md",
-    "Framework/2. Get the data.md",
-    "Framework/1. Frame the problem.md",
+    "concepts/nlp/Bag of Words.md",
+    "concepts/nlp/TF-IDF.md",
+    "concepts/nlp/Lexical.md",
+    "concepts/nlp/Large Language Models.md",
+    "_content/diary/2024-12-09.md",
+    "_content/diary/2024-10-24.md",
+    "_content/diary/2024-10-16.md",
+    "_resources/templates/Article extraction.md",
+    "_resources/templates/Command.md",
+    "_resources/templates/Algoritmo.md",
+    "concepts/nlp/Natural Language Understanding.md",
+    "Untitled Kanban 1.md",
+    "Untitled Kanban.md",
+    "Unknow words.md",
+    "TODO.md",
+    "LATEXT.md",
+    "Resources.md",
+    "Text to Diagram.md",
+    "Untitled.canvas",
+    "concepts/nlp/Natural Language Processing.md",
+    "concepts/nlp/Natural Language Generation.md",
+    "concepts/nlp/Morphology.md",
+    "concepts/nlp/Syntactic.md",
+    "tools/anaconda.md",
+    "concepts/nlp/Semantic.md",
+    "tools",
+    "concepts/nlp/attachments/Pasted image 20241122102725.png",
+    "attachments/Pasted image 20241121235145.png",
+    "attachments",
+    "concepts/nlp/Phonology.md",
+    "concepts/nlp/attachments/Pasted image 20241121234538.png",
+    "concepts/nlp/attachments",
+    "concepts/nlp/Stop words.md",
+    "concepts/nlp",
+    "concepts/activation-functions/attachments/lagrida_latex_editor.png",
+    "concepts/activation-functions/attachments",
+    "Research/reviews",
+    "concepts/cost-functions",
+    "concepts/activation-functions",
+    "Research",
+    "Framework/models/regression/attachments/Pasted image 20241009114330.png",
+    "Framework/models/regression/attachments/Pasted image 20241009114307.png",
     "Framework/models/regression/attachments/Pasted image 20241007202902.png",
     "Framework/models/regression/attachments/Pasted image 20241007202417.png",
-    "Framework/models/regression/Simple Linear Regression.md",
     "Framework/models/regression/attachments/Pasted image 20240924195827.png",
     "Framework/models/regression/attachments",
-    "Framework/models/regression/Random Forest Regression.md",
-    "Framework/models/regression/Decision Tree Regression.md",
-    "Framework/models/regression/Support Vector for Regression (SVR).md",
-    "Framework/models/regression/Polynomial Regression.md",
-    "Framework/5. Explore models.md",
-    "concepts/Overfitting.md",
-    "Framework/4. Prepare the data.md",
-    "concepts/Feature scaling.md",
-    "Framework/models/regression",
-    "Framework/models",
-    "concepts",
-    "Resources.md",
-    "Framework/0. Framework.md",
-    "Framework/attachments/Pasted image 20240917120728.png",
-    "Framework/attachments",
-    "Framework/8. Launch monitor, mantain the system.md",
-    "Framework/6. Fine tune the models.md",
-    "Text to Diagram.md",
-    "Framework/7. Present solution.md",
-    "5. explore models.md",
-    "4. prepare the data.md",
-    "3. explore the data.md",
-    "1.Frame.md",
-    "1.Frame the problem.md",
-    "Framework/8-launch-monitor-mantain-the-system.md",
-    "Framework",
-    "introduction",
-    "_resources/templates",
-    "_resources",
-    "_organizar"
+    "Framework/attachments/Pasted image 20240917120728.png"
   ]
 }
